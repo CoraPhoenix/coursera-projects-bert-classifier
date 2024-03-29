@@ -1,2 +1,2 @@
 # coursera-projects-bert-classifier
-Project made during Coursera's "Fine-Tune BERT for Text Classification with TensorFlow", where a BERT model was used to classify a set of questions using Quora Insincere Questions Dataset as a fine-tuning dataset
+Project made during Coursera's "Fine-Tune BERT for Text Classification with TensorFlow". The goal of the project is using a BERT model to identify if a question made on Quora is sincere or not. The model was fine-tuned using the Quora Insincere Questions Dataset.
